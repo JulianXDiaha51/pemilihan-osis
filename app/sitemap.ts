@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next';
 
-const siteUrl = 'https://pemilihan-osis.smkcendekia.sch.id';
+const siteUrl = 'https://pemilihan-osis.jzcloud.web.id';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
