@@ -7,7 +7,7 @@ import { ThemeProvider } from '../src/components/ThemeProvider';
 import { BrandingProvider } from '../src/components/BrandingProvider';
 import { getBranding, getTheme } from '../src/lib/settings';
 
-const siteUrl = 'https://pemilihan-osis.smkcendekia.sch.id';
+const siteUrl = 'https://pemilihan-osis.jzcloud.web.id';
 
 export const dynamic = 'force-dynamic';
 
