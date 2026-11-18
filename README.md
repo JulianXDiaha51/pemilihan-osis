@@ -4,7 +4,7 @@ Aplikasi web pemungutan suara Ketua & Wakil OSIS berbasis Next.js 15 yang diranc
 
 Berjalan mandiri tanpa layanan cloud pihak ketiga: database SQLite lokal, autentikasi JWT via cookie httpOnly, dan penyimpanan foto kandidat di filesystem. Cocok dijalankan di jaringan sekolah, laptop panitia, maupun VPS internal.
 
-Dikembangkan dan dipelihara oleh **sidycoders.xyz**.
+Dikembangkan dan dipelihara oleh **JZPedia**.
 
 ---
 
