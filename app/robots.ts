@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/dashboard'],
       },
     ],
-    sitemap: 'https://pemilihan-osis.smkcendekia.sch.id/sitemap.xml',
+    sitemap: 'https://pemilihan-osis.jzcloud.web.id/sitemap.xml',
   };
 }
