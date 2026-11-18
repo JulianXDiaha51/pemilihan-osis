@@ -5,12 +5,12 @@ import { getDb } from './db';
 const BRANDING_DIR = path.join(process.cwd(), 'public', 'uploads', 'branding');
 
 export const DEFAULT_BRANDING = {
-  school_name: 'SMK Cendekia Wanasari',
+  school_name: 'SMA PGRI CIRANJANG',
   short_name: 'Pemilihan OSIS 2026',
   logo_path: null as string | null,
   landing_description:
     'Saatnya menentukan pemimpin OSIS periode berikutnya. Pelajari visi dan misi tiap pasangan calon, lalu berikan suaramu secara online dengan aman dan transparan.',
-  footer_text: '© {year} SMK Cendekia Wanasari — Sistem Pemilihan OSIS',
+  footer_text: '© {year} SMA PGRI CIRANJANG - Sistem Pemilihan OSIS Diawasi oleh JZPedia',
 };
 
 export interface Branding {
